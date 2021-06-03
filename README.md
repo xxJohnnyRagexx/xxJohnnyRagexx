@@ -4,8 +4,6 @@
 
 В данный момент изучаю AvaloniaUI
 
-Мой e-mail: ragej16@gmail.com
-
 
 <!---
 xxJohnnyRagexx/xxJohnnyRagexx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
